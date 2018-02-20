@@ -7,15 +7,18 @@ Check my code, I'm open to discuss, improve and learn.
 # The Problem
 Sample Dataset: 
 
-CategoryId 	ParentCategoryId 	Name 			  Keywords 
-100 			-1 				Business 			Money 
-200 			-1 				Tutoring 			Teaching 
-101 			100 			Accounting 			Taxes 
-102 			100 			Taxation 
-201 			200 			Computer 
-103 			101 			Corporate Tax 
-202 			201 			Operating System 
-109 			101 			Small business Tax 
+Sample Dataset: 
+
+|CategoryId | ParentCategoryId|    Name                 | Keywords       |
+|-----------|-----------------|-------------------------|----------------|  
+|100        |   -1            |   Business              |  Money         |
+|200        |   -1            |   Tutoring              |  Teaching      |
+|101        |   100           |   Accounting            |  Taxes         |
+|102        |   100           |   Taxation              |                |
+|201        |   200           |   Computer              |                |
+|103        |   101           |   Corporate Tax         |                |
+|202        |   201           |   Operating System      |                |
+|109        |   101           |   Small business Tax    |                |
 
 Write a working program which should do the following:
 a. Given a category id return category name, parentCategoryId and key-word. Ensure that if
@@ -34,9 +37,9 @@ i. Input: 2; Output: 101, 102, 201
 ii. Input: 3; Output: 103, 109, 202
 
 # Requirements:
-## .NET Core 2.0
-## C#
-## VS2017
+- .NET Core 2.0
+- C#
+- VS2017
 
 # Notes:
 If you want to pass the Exam, you need to migrate this source code to .NET Framework, because the Technical evaluator doesn't have knowledge on this platform.
