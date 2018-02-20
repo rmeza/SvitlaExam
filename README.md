@@ -21,20 +21,21 @@ Sample Dataset:
 |109        |   101           |   Small business Tax    |                |
 
 Write a working program which should do the following:
-a. Given a category id return category name, parentCategoryId and key-word. Ensure that if
+
+1. a. Given a category id return category name, parentCategoryId and key-word. Ensure that if
 key-word is not present for the category, then the data from its parent should be
 returned.
 
-Sample Input/Output:
-i. Input: 201; Output: ParentCategoryID=200, Name=Computer,
-Keywords=Teaching
-ii. Input: 202; Output: ParentCategoryID=201, Name=Operating System,
-Keywords=Teaching
-b. Given category level as parameter (say N) return the names of the categories which are
+  - Sample Input/Output:
+  - i. Input: 201; Output: ParentCategoryID=200, Name=Computer,
+  - Keywords=Teaching
+  - ii. Input: 202; Output: ParentCategoryID=201, Name=Operating System,
+  - Keywords=Teaching
+2. b. Given category level as parameter (say N) return the names of the categories which are
 of N’th level in the hierarchy (categories with parentId -1 are at 1st level).
-Sample Input/Output:
-i. Input: 2; Output: 101, 102, 201
-ii. Input: 3; Output: 103, 109, 202
+  - Sample Input/Output:
+  - i. Input: 2; Output: 101, 102, 201
+  - ii. Input: 3; Output: 103, 109, 202
 
 # Requirements:
 - .NET Core 2.0
