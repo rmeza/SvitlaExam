@@ -7,3 +7,6 @@ Check my code, Im open to discuss and learn.
 ## .NET Core 2.0
 ## C#
 ## VS2017
+
+# Notes:
+If you want to pass the Exam, you need migrate this source code to .NET Framework, because the Technical evaluator doesn't have knowledge on this platform.
