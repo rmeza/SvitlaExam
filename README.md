@@ -4,8 +4,7 @@ My experienced based to apply on Svitla.
 The exam provide a dataset static.
 So, my solution was implement a Binary tree.
 Check my code, I'm open to discuss, improve and learn.
-# The Problem
-Sample Dataset: 
+# The Question
 
 Sample Dataset: 
 
