@@ -1,4 +1,4 @@
-# SvitlaExam
+# Svitla Exam
 Svitla exam category
 This is my experience to apply in svitla process, The exam provide a dataset static.
 So my solution was implement a Binary tree.
