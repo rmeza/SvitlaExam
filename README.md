@@ -2,7 +2,7 @@
 This is a solution for the Svitla exam.
 My experienced based to apply on Svitla.
 The exam provide a dataset static.
-So, my solution was implement a Binary tree.
+So, my solution was to implement a Binary tree.
 Check my code, I'm open to discuss, improve and learn.
 # The Question
 
@@ -42,4 +42,5 @@ of N’th level in the hierarchy (categories with parentId -1 are at 1st level).
 - VS2017
 
 # Notes:
-If you want to pass the Exam, you need to migrate this source code to .NET Framework, because the Technical evaluator doesn't have knowledge on this platform.
+
+I didn't get a correct feedback from the recrutier. The problem never mentioned thath the Dataset could change values or add more nodes.
