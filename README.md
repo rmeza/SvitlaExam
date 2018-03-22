@@ -43,4 +43,4 @@ of N’th level in the hierarchy (categories with parentId -1 are at 1st level).
 
 # Notes:
 
-I didn't get a correct feedback from the recrutier. The problem never mentioned thath the Dataset could change values or add more nodes.
+I didn't get a correct feedback from the recruteur. The problem never mentioned tabout the Dataset could change values or add more nodes.
